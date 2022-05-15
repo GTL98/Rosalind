@@ -2,6 +2,16 @@
 
 Meu perfil: https://rosalind.info/users/Gui98/
 
+# Python Village
+|Problema|Link do problema|Link do código|
+|-|-|-|
+|INI1|[Problema](https://rosalind.info/problems/ini1/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Python%20Village/INI1/ini1.py)|
+|INI2|[Problema](https://rosalind.info/problems/ini2/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Python%20Village/INI2/ini2.py)|
+|INI3|[Problema](https://rosalind.info/problems/ini3/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Python%20Village/INI3/ini3.py)|
+|INI4|[Problema](https://rosalind.info/problems/ini4/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Python%20Village/INI4/ini4.py)|
+|INI5|[Problema](https://rosalind.info/problems/ini5/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Python%20Village/INI5/ini5.py)|
+|INI6|[Problema](https://rosalind.info/problems/ini6/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Python%20Village/INI6/ini6.py)|
+
 ## Bioinformatics Armory
 
 |Problema|Link do problema|Link do código|
