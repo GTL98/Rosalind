@@ -11,6 +11,19 @@ Meu perfil: https://rosalind.info/users/Gui98/
 |INI4|[Problema](https://rosalind.info/problems/ini4/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Python%20Village/INI4/ini4.py)|
 |INI5|[Problema](https://rosalind.info/problems/ini5/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Python%20Village/INI5/ini5.py)|
 |INI6|[Problema](https://rosalind.info/problems/ini6/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Python%20Village/INI6/ini6.py)|
+##
+
+## Bioinformatics Stronghold
+|Problema|Link do problema|Link do código|
+|-|-|-|
+|DNA|[Problema](https://rosalind.info/problems/dna/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/DNA/DNA.py)|
+|RNA|[Problema](https://rosalind.info/problems/rna/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/RNA/RNA.py)|
+|REVC|[Problema](https://rosalind.info/problems/revc/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/REVC/REVC.py)|
+|IPRB|[Problema](https://rosalind.info/problems/iprb/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/IPRB/IPRB.py)|
+|GC|[Problema](https://rosalind.info/problems/gc/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/GC/GC.py)|
+|PROT|[Problema](https://rosalind.info/problems/prot/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/PROT/PROT.py)|
+|SUBS|[Problema](https://rosalind.info/problems/subs/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/SUBS/SUBS.py)|
+|HAMM|[Problema](https://rosalind.info/problems/hamm/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/HAMM/HAMM.py)|
 
 ## Bioinformatics Armory
 
