@@ -2,7 +2,7 @@
 
 Meu perfil: https://rosalind.info/users/Gui98/
 
-# Python Village
+## Python Village
 |Problema|Link do problema|Link do código|
 |-|-|-|
 |INI1|[Problema](https://rosalind.info/problems/ini1/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Python%20Village/INI1/ini1.py)|
