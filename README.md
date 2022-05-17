@@ -11,7 +11,6 @@ Meu perfil: https://rosalind.info/users/Gui98/
 |INI4|[Problema](https://rosalind.info/problems/ini4/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Python%20Village/INI4/ini4.py)|
 |INI5|[Problema](https://rosalind.info/problems/ini5/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Python%20Village/INI5/ini5.py)|
 |INI6|[Problema](https://rosalind.info/problems/ini6/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Python%20Village/INI6/ini6.py)|
-##
 
 ## Bioinformatics Stronghold
 |Problema|Link do problema|Link do código|
