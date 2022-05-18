@@ -23,6 +23,14 @@ Meu perfil: https://rosalind.info/users/Gui98/
 |PROT|[Problema](https://rosalind.info/problems/prot/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/PROT/PROT.py)|
 |SUBS|[Problema](https://rosalind.info/problems/subs/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/SUBS/SUBS.py)|
 |HAMM|[Problema](https://rosalind.info/problems/hamm/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/HAMM/HAMM.py)|
+|IEV|[Problema](https://rosalind.info/problems/iev/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/IEV/IEV.py)|
+|MRNA|[Problema](https://rosalind.info/problems/mrna/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/MRNA/MRNA.py)|
+|PRTM|[Problema](https://rosalind.info/problems/prtm/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/PRTM/PRTM.py)|
+|GRPH|[Problema](https://rosalind.info/problems/grph/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/GRPH/GRPH.py)|
+|ORF|[Problema](https://rosalind.info/problems/orf/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/ORF/ORF.py)|
+|SPLC|[Problema](https://rosalind.info/problems/splc/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/SPLC/SPLC.py)|
+|PERM|[Problema](https://rosalind.info/problems/perm/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/PERM/PERM.py)|
+|REVP|[Problema](https://rosalind.info/problems/revp/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/REVP/REVP.py)|
 
 ## Bioinformatics Armory
 
