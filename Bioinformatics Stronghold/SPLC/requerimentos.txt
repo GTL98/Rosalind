@@ -1,5 +1,0 @@
-DNA
-RNA
-REVC
-PROT
-SUBS
