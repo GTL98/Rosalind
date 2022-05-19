@@ -31,6 +31,10 @@ Meu perfil: https://rosalind.info/users/Gui98/
 |SPLC|[Problema](https://rosalind.info/problems/splc/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/SPLC/SPLC.py)|
 |PERM|[Problema](https://rosalind.info/problems/perm/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/PERM/PERM.py)|
 |REVP|[Problema](https://rosalind.info/problems/revp/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/REVP/REVP.py)|
+|PPER|[Problema](https://rosalind.info/problems/pper/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/PPER/PPER.py)|
+|TRAN|[Problema](https://rosalind.info/problems/tran/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/TRAN/TRAN.py)|
+|LEXF|[Problema](https://rosalind.info/problems/lexf/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/LEXF/LEXF.py)|
+|KMER|[Problema](https://rosalind.info/problems/kmer/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/KMER/KMER.py)|
 
 ## Bioinformatics Armory
 
