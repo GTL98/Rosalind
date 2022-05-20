@@ -53,3 +53,16 @@ Meu perfil: https://rosalind.info/users/Gui98/
 |FILT|[Problema](https://rosalind.info/problems/filt/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/FILT/filt.py)|
 |BPHR|[Problema](https://rosalind.info/problems/bphr/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/BPHR/bphr.py)|
 |BFIL|[Problema](https://rosalind.info/problems/bfil/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/BFIL/bfil.py)|
+
+## Bioinformatics Textbook Track
+
+|Problema|Link do problema|Link do código|
+|-|-|-|
+|BA1A|[Problema](https://rosalind.info/problems/ba1a/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Textbook%20Track/BA1A/BA1A.py)|
+|BA1B|[Problema](https://rosalind.info/problems/ba1b/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Textbook%20Track/BA1B/BA1B.py)|
+|BA1C|[Problema](https://rosalind.info/problems/ba1c/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Textbook%20Track/BA1C/BA1C.py)|
+|BA1D|[Problema](https://rosalind.info/problems/ba1d/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Textbook%20Track/BA1D/BA1D.py)|
+|BA1E|[Problema](https://rosalind.info/problems/ba1e/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Textbook%20Track/BA1E/BA1E.py)|
+|BA1F|[Problema](https://rosalind.info/problems/ba1f/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Textbook%20Track/BA1F/BA1F.py)|
+|BA1G|[Problema](https://rosalind.info/problems/ba1g/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Textbook%20Track/BA1G/BA1G.py)|
+|BA1H|[Problema](https://rosalind.info/problems/ba1h/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Textbook%20Track/BA1H/BA1H.py)|
