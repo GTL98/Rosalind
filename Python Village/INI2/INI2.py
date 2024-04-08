@@ -2,7 +2,7 @@
 # --- Problema: O inteiro correspondente ao quadrado da hipotenusa do triângulo, cujo os lados são a e b --- #
 
 # --- Indicar o arquivo --- #
-arquivo = 'rosalind_ini2.txt'
+arquivo = ''
 
 # --- Abrir o arquivo --- #
 with open(arquivo, 'r') as txt:
