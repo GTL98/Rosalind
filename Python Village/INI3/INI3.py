@@ -19,7 +19,7 @@ with open(arquivo, 'r') as txt:
     c = int(numeros[2])
     d = int(numeros[3])
 
-# --- Obter o as substrings --- #
+# --- Obter as substrings --- #
 sub_s_1 = s[a:b+1]
 sub_s_2 = s[c: d+1]
 
