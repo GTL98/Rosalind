@@ -2,7 +2,7 @@
 # --- Problema: O número de ocorrências de cada palavra em s, separadas por espaço --- #
 
 # --- Indicar o arquivo --- #
-arquivo = 'rosalind_ini6.txt'
+arquivo = ''
 
 # --- Abrir o arquivo --- #
 with open(arquivo, 'r') as txt:
