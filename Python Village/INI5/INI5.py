@@ -2,7 +2,7 @@
 # --- Problema: Retornar somente as linhas nas posições pares --- #
 
 # --- Indicar o arquivo --- #
-arquivo = 'rosalind_ini5.txt'
+arquivo = ''
 
 # --- Abrir o arquivo --- #
 with open(arquivo, 'r') as txt:
