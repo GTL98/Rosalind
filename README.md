@@ -19,3 +19,4 @@
 |GBK|[Problema](https://rosalind.info/problems/gbk/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/GBK/GBK.py)|
 |FRMT|[Problema](https://rosalind.info/problems/frmt/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/FRMT/FRMT.py)|
 |PTRA|[Problema](https://rosalind.info/problems/ptra/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/PTRA/PTRA.py)|
+|RVCO|[Problema](https://rosalind.info/problems/rvco/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/RVCO/RVCO.py)|
