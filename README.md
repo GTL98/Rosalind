@@ -15,3 +15,4 @@
 ### Bioinformatics Armory
 |Nome|Problema|Artigo|Código|
 |-|-|-|-|
+|INI|[Problema](https://rosalind.info/problems/ini/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/INI/INI.py)
