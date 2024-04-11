@@ -6,7 +6,7 @@ from Bio.Seq import translate
 from Bio.Data import CodonTable
 
 # --- Indicar o arquivo --- #
-arquivo = 'rosalind_ptra.txt'
+arquivo = ''
 
 # --- Abrir o arquivo --- #
 with open(arquivo, 'r') as txt:
