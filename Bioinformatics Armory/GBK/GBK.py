@@ -5,7 +5,7 @@
 from Bio import Entrez
 
 # --- Indicar o arquivo --- #
-arquivo = 'rosalind_gbk.txt'
+arquivo = ''
 
 # --- Abrir o arquivo --- #
 with open(arquivo, 'r') as txt:
