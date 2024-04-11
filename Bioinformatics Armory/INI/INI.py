@@ -2,7 +2,7 @@
 # --- Problema: A quantidade de cada nucleotídeo em s, separado por espaço. A ordem é adenina (A), citosina (C), guanina (G) e timina (T) --- #
 
 # --- Indicar o arquivo --- #
-arquivo = 'rosalind_ini.txt'
+arquivo = ''
 
 # --- Abrir o arquivo --- #
 with open(arquivo, 'r') as txt:
