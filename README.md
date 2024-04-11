@@ -11,3 +11,7 @@
 |INI4|[Problema](https://rosalind.info/problems/ini4/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Python%20Village/INI4/INI4.py)|
 |INI5|[Problema](https://rosalind.info/problems/ini5/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Python%20Village/INI5/INI5.py)|
 |INI6|[Problema](https://rosalind.info/problems/ini6/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Python%20Village/INI6/INI6.py)|
+
+### Bioinformatics Armory
+|Nome|Problema|Artigo|Código|
+|-|-|-|-|
