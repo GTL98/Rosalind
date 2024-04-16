@@ -5,7 +5,7 @@
 from Bio import SeqIO
 
 # --- Informar o arquivo --- #
-arquivo = 'rosalind_tfsq.txt'
+arquivo = ''
 
 
 # --- Ler o arquivo --- #
