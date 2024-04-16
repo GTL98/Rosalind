@@ -21,3 +21,4 @@
 |PTRA|[Problema](https://rosalind.info/problems/ptra/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/PTRA/PTRA.py)|
 |RVCO|[Problema](https://rosalind.info/problems/rvco/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/RVCO/RVCO.py)|
 |TFSQ|[Problema](https://rosalind.info/problems/tfsq/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/TFSQ/TFSQ.py)|
+|PHRE|[Problema](https://rosalind.info/problems/phre/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/PHRE/PHRE.py)|
