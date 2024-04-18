@@ -35,3 +35,4 @@
 |PROT|[Problema](https://rosalind.info/problems/prot/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/PROT/PROT.py)|
 |GC|[Problema](https://rosalind.info/problems/gc/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/GC/GC.py)|
 |MRNA|[Problema](https://rosalind.info/problems/mrna/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/MRNA/MRNA.py)|
+|PRTM|[Problema](https://rosalind.info/problems/prtm/)[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/PRTM/PRTM.py)|
