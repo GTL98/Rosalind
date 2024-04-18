@@ -23,3 +23,8 @@
 |TFSQ|[Problema](https://rosalind.info/problems/tfsq/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/TFSQ/TFSQ.py)|
 |PHRE|[Problema](https://rosalind.info/problems/phre/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/PHRE/PHRE.py)|
 |FILT|[Problema](https://rosalind.info/problems/filt/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/FILT/FILT.py)|
+
+### Bioinformatics Stronghold
+|Nome|Problema|Artigo|Código|
+|-|-|-|-|
+|DNA|[Problema](https://rosalind.info/problems/dna/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/DNA/DNA.py)|
