@@ -2,7 +2,7 @@
 # --- Problema: A quantidade de quantas vezes cada nucleotídeo aparece na string (A, C, G e T) --- #
 
 # --- Indicar o arquivo --- #
-arquivo = 'rosalind_dna.txt'
+arquivo = ''
 
 # --- Ler o arquivo --- #
 with open(arquivo, 'r') as txt:
