@@ -28,3 +28,4 @@
 |Nome|Problema|Artigo|Código|
 |-|-|-|-|
 |DNA|[Problema](https://rosalind.info/problems/dna/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/DNA/DNA.py)|
+|RNA|[Problema](https://rosalind.info/problems/rna/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/RNA/RNA.py)|
