@@ -2,7 +2,7 @@
 # --- Problema: A string de RNA traduzida --- #
 
 # --- Indicar o arquivo --- #
-arquivo = 'rosalind_rna.txt'
+arquivo = ''
 
 # --- Abrir o arquivo --- #
 with open(arquivo, 'r') as txt:
