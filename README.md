@@ -32,3 +32,4 @@
 |REVC|[Problema](https://rosalind.info/problems/revc/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/REVC/REVC.py)|
 |HAMM|[Problema](https://rosalind.info/problems/hamm/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/HAMM/HAMM.py)|
 |SUBS|[Problema](https://rosalind.info/problems/subs/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/SUBS/SUBS.py)|
+|PROT|[Problema](https://rosalind.info/problems/prot/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/PROT/PROT.py)|
