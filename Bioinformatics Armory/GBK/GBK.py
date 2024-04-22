@@ -1,4 +1,4 @@
-# --- Fornecido: O gênero de uma espécie seguido de duas datas no formaro AAAA/M/D --- #
+# --- Fornecido: O gênero de uma espécie seguido de duas datas no formaro AAAA/MM/DD --- #
 # --- Problema: A quantidade de entradas de nucleotídeos GenBank do gênero durante o período informado --- #
 
 # --- Importar a biblioteca --- #
