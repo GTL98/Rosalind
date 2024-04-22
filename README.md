@@ -24,6 +24,7 @@
 |PHRE|[Problema](https://rosalind.info/problems/phre/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/PHRE/PHRE.py)|
 |FILT|[Problema](https://rosalind.info/problems/filt/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/FILT/FILT.py)|
 |BPHR|[Problema](https://rosalind.info/problems/bphr/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/BPHR/BPHR.py)|
+|BFIL|[Problema](https://rosalind.info/problems/bfil/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/BFIL/BFIL.py)|
 
 ### Bioinformatics Stronghold
 |Nome|Problema|Artigo|Código|
