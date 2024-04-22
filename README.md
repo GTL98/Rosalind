@@ -8,8 +8,8 @@
 |INI1|[Problema](https://rosalind.info/problems/ini1/)|[Artigo](https://www.linkedin.com/pulse/rosalind-01-primeiro-passo-para-bioinform%2525C3%2525A1tica-trevisan-linhares-vfuqf)|[Código](https://github.com/GTL98/Rosalind/blob/main/Python%20Village/INI1/INI1.py)|
 |INI2|[Problema](https://rosalind.info/problems/ini2/)|[Artigo](https://www.linkedin.com/pulse/rosalind-02-c%C3%A1lculo-da-hipotenusa-guilherme-trevisan-linhares-2ajtf/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Python%20Village/INI2/INI2.py)|
 |INI3|[Problema](https://rosalind.info/problems/ini3/)|[Artigo](https://www.linkedin.com/pulse/rosalind-03-manipula%2525C3%2525A7%2525C3%2525A3o-de-strings-guilherme-trevisan-linhares-1jy9f)|[Código](https://github.com/GTL98/Rosalind/blob/main/Python%20Village/INI3/INI3.py)|
-|INI4|[Problema](https://rosalind.info/problems/ini4/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Python%20Village/INI4/INI4.py)|
-|INI5|[Problema](https://rosalind.info/problems/ini5/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Python%20Village/INI5/INI5.py)|
+|INI4|[Problema](https://rosalind.info/problems/ini4/)|[Artigo](https://www.linkedin.com/pulse/rosalind-04-loops-e-condi%25C3%25A7%25C3%25B5es-guilherme-trevisan-linhares-ujvhf/?trackingId=F2Zpd8%2BQRdao6gKdIAcucQ%3D%3D)|[Código](https://github.com/GTL98/Rosalind/blob/main/Python%20Village/INI4/INI4.py)|
+|INI5|[Problema](https://rosalind.info/problems/ini5/)|[Artigo](https://www.linkedin.com/pulse/rosalind-05-trabalhando-com-arquivos-guilherme-trevisan-linhares-rs0jf/?trackingId=F2Zpd8%2BQRdao6gKdIAcucQ%3D%3D)|[Código](https://github.com/GTL98/Rosalind/blob/main/Python%20Village/INI5/INI5.py)|
 |INI6|[Problema](https://rosalind.info/problems/ini6/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Python%20Village/INI6/INI6.py)|
 
 ### Bioinformatics Armory
