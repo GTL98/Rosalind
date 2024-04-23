@@ -1,9 +1,8 @@
 # --- Dado: Uma string de DNA com até mil nucleotídeos --- #
 # --- Problema: Toda possível proteína que pode ser traduzida de cada possível ORF --- #
 
-# --- Importar as biblioteca --- #
+# --- Importar a biblioteca --- #
 from Bio import SeqIO
-from Bio.Seq import Seq
 
 # --- Informar o arquivo --- #
 arquivo = ''
