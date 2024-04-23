@@ -44,3 +44,4 @@
 |GRPH|[Problema](https://rosalind.info/problems/grph/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/GRPH/GRPH.py)|
 |REVP|[Problema](https://rosalind.info/problems/revp/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/REVP/REVP.py)|
 |ORF|[Problema](https://rosalind.info/problems/orf/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/ORF/ORF.py)|
+|PPER|[Problema](https://rosalind.info/problems/pper/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/PPER/PPER.py)|
