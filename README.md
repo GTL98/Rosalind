@@ -40,3 +40,4 @@
 |PRTM|[Problema](https://rosalind.info/problems/prtm/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/PRTM/PRTM.py)|
 |PERM|[Problema](https://rosalind.info/problems/perm/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/PERM/PERM.py)|
 |SPLC|[Problema](https://rosalind.info/problems/splc/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/SPLC/SPLC.py)|
+|GRPH|[Problema](https://rosalind.info/problems/grph/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/GRPH/GRPH.py)|
