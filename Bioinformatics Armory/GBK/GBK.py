@@ -18,7 +18,7 @@ with open(arquivo, 'r') as txt:
     # --- Obter a data inicial --- #
     data_inicial = conteudo[1].strip()
 
-    # --- Obter a data final --- 3
+    # --- Obter a data final --- #
     data_final = conteudo[2].strip()
 
 # --- Indicar um e-mail aleatório --- #
