@@ -1,5 +1,5 @@
 # --- Dado: Uma string de DNA s com até 10 mil nucleotídeos e a proteína p traduzida de s --- #
-# --- Problema: A tabela usada para a tradução da proteína (se existir mais de uma solução pode usar qualquer uma --- #
+# --- Problema: A tabela usada para a tradução da proteína (se existir mais de uma solução pode usar qualquer uma) --- #
 
 # --- Importar as bibliotecas --- #
 from Bio.Seq import translate
