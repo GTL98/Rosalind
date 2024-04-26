@@ -28,7 +28,7 @@ for i in range(len(sequencia)):
         codons.append(codon)
 
 
-# --- Separar em códons a sequência reversa_complementar --- #
+# --- Separar em códons a sequência reversa complementar --- #
 codons_rev_comp = []
 for i in range(len(sequencia_rev_comp)):
     # --- Obter o códon --- #
