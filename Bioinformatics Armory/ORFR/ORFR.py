@@ -5,7 +5,7 @@
 from Bio.Seq import Seq
 
 # --- Informar o arquivo --- #
-arquivo = '
+arquivo = ''
 # --- Abrir o arquivo --- #
 with open(arquivo, 'r') as txt:
     # --- Obter o conteúdo do arquivo --- #
