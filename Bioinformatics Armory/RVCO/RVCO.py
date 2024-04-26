@@ -5,7 +5,7 @@
 from Bio import SeqIO
 
 # --- Indicar o arquivo --- #
-arquivo = 'rosalind_rvco.txt'
+arquivo = ''
 
 # --- Criar o contador --- #
 contador = 0
