@@ -33,7 +33,8 @@
 |DNA|[Problema](https://rosalind.info/problems/dna/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/DNA/DNA.py)|
 |RNA|[Problema](https://rosalind.info/problems/rna/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/RNA/RNA.py)|
 |REVC|[Problema](https://rosalind.info/problems/revc/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/REVC/REVC.py)|
-|IPRB|[Problema](https://rosalind.info/problems/iprb/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/IPRB/IPRB.py)
+|IPRB|[Problema](https://rosalind.info/problems/iprb/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/IPRB/IPRB.py)|
+|FIB|[Problema](https://rosalind.info/problems/fib/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/FIB/FIB.py)|
 |HAMM|[Problema](https://rosalind.info/problems/hamm/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/HAMM/HAMM.py)|
 |SUBS|[Problema](https://rosalind.info/problems/subs/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/SUBS/SUBS.py)|
 |PROT|[Problema](https://rosalind.info/problems/prot/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/PROT/PROT.py)|
