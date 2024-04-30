@@ -16,7 +16,7 @@
 |Nome|Problema|Artigo|Código|
 |-|-|-|-|
 |INI|[Problema](https://rosalind.info/problems/ini/)|[Artigo](https://www.linkedin.com/pulse/bioinformata-100-07-contagem-de-nucleot%2525C3%2525ADdeos-trevisan-linhares-4dlof/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/INI/INI.py)|
-|GBK|[Problema](https://rosalind.info/problems/gbk/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/GBK/GBK.py)|
+|GBK|[Problema](https://rosalind.info/problems/gbk/)|[Artigo](https://www.linkedin.com/pulse/bioinformata-100-08-arquivos-genbank-guilherme-trevisan-linhares-lw7kf)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/GBK/GBK.py)|
 |FRMT|[Problema](https://rosalind.info/problems/frmt/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/FRMT/FRMT.py)|
 |PTRA|[Problema](https://rosalind.info/problems/ptra/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/PTRA/PTRA.py)|
 |RVCO|[Problema](https://rosalind.info/problems/rvco/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/RVCO/RVCO.py)|
@@ -33,6 +33,7 @@
 |DNA|[Problema](https://rosalind.info/problems/dna/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/DNA/DNA.py)|
 |RNA|[Problema](https://rosalind.info/problems/rna/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/RNA/RNA.py)|
 |REVC|[Problema](https://rosalind.info/problems/revc/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/REVC/REVC.py)|
+|IPRB|[Problema](https://rosalind.info/problems/iprb/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/IPRB/IPRB.py)
 |HAMM|[Problema](https://rosalind.info/problems/hamm/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/HAMM/HAMM.py)|
 |SUBS|[Problema](https://rosalind.info/problems/subs/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/SUBS/SUBS.py)|
 |PROT|[Problema](https://rosalind.info/problems/prot/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/PROT/PROT.py)|
