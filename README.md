@@ -46,7 +46,7 @@
 |PERM|[Problema](https://rosalind.info/problems/perm/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/PERM/PERM.py)|
 |SPLC|[Problema](https://rosalind.info/problems/splc/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/SPLC/SPLC.py)|
 |GRPH|[Problema](https://rosalind.info/problems/grph/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/GRPH/GRPH.py)|
-|MPRT|[Problema])https://rosalind.info/problems/mprt/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/MPRT/MPRT.py)|
+|MPRT|[Problema](https://rosalind.info/problems/mprt/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/MPRT/MPRT.py)|
 |CONS|[Problema](https://rosalind.info/problems/cons/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/CONS/CONS.py)|
 |REVP|[Problema](https://rosalind.info/problems/revp/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/REVP/REVP.py)|
 |ORF|[Problema](https://rosalind.info/problems/orf/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/ORF/ORF.py)|
