@@ -17,9 +17,9 @@
 |-|-|-|-|
 |INI|[Problema](https://rosalind.info/problems/ini/)|[Artigo](https://www.linkedin.com/pulse/bioinformata-100-07-contagem-de-nucleot%2525C3%2525ADdeos-trevisan-linhares-4dlof/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/INI/INI.py)|
 |GBK|[Problema](https://rosalind.info/problems/gbk/)|[Artigo](https://www.linkedin.com/pulse/bioinformata-100-08-arquivos-genbank-guilherme-trevisan-linhares-lw7kf)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/GBK/GBK.py)|
-|FRMT|[Problema](https://rosalind.info/problems/frmt/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/FRMT/FRMT.py)|
-|PTRA|[Problema](https://rosalind.info/problems/ptra/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/PTRA/PTRA.py)|
-|RVCO|[Problema](https://rosalind.info/problems/rvco/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/RVCO/RVCO.py)|
+|FRMT|[Problema](https://rosalind.info/problems/frmt/)|[Artigo](https://www.linkedin.com/pulse/bioinformata-100-09-arquivo-fasta-guilherme-trevisan-linhares-rbvpf)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/FRMT/FRMT.py)|
+|PTRA|[Problema](https://rosalind.info/problems/ptra/)|[Artigo](https://www.linkedin.com/pulse/bioinformata-100-10-tabelas-de-tradu%2525C3%2525A7%2525C3%2525A3o-guilherme-trevisan-linhares-u4zef)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/PTRA/PTRA.py)|
+|RVCO|[Problema](https://rosalind.info/problems/rvco/)|[Artigo](https://www.linkedin.com/pulse/bioinformata-100-11-reverso-complementar-trevisan-linhares-syssf)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/RVCO/RVCO.py)|
 |ORFR|[Problema](https://rosalind.info/problems/orfr/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/ORFR/ORFR.py)|
 |TFSQ|[Problema](https://rosalind.info/problems/tfsq/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/TFSQ/TFSQ.py)|
 |PHRE|[Problema](https://rosalind.info/problems/phre/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/PHRE/PHRE.py)|
@@ -46,6 +46,7 @@
 |PERM|[Problema](https://rosalind.info/problems/perm/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/PERM/PERM.py)|
 |SPLC|[Problema](https://rosalind.info/problems/splc/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/SPLC/SPLC.py)|
 |GRPH|[Problema](https://rosalind.info/problems/grph/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/GRPH/GRPH.py)|
+|MPRT|[Problema])https://rosalind.info/problems/mprt/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/MPRT/MPRT.py)|
 |CONS|[Problema](https://rosalind.info/problems/cons/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/CONS/CONS.py)|
 |REVP|[Problema](https://rosalind.info/problems/revp/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/REVP/REVP.py)|
 |ORF|[Problema](https://rosalind.info/problems/orf/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/ORF/ORF.py)|
