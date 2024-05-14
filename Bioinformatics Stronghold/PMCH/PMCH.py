@@ -6,7 +6,7 @@ from Bio import SeqIO
 from math import factorial
 
 # --- Informar o arquivo --- #
-arquivo = 'rosalind_pmch.txt'
+arquivo = ''
 
 # --- Obter a quantidade dos pares de nucleotídeos --- #
 A_U = 0
