@@ -1,5 +1,5 @@
 # --- Dado: Duas strings de DNA com até mil nucleotídeos --- #
-# --- Problema: A razão de transisão e transversão --- #
+# --- Problema: A razão de transição e transversão --- #
 
 # --- Importar a biblioteca --- #
 from Bio import SeqIO
