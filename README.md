@@ -20,7 +20,7 @@
 |FRMT|[Problema](https://rosalind.info/problems/frmt/)|[Artigo](https://www.linkedin.com/pulse/bioinformata-100-09-arquivo-fasta-guilherme-trevisan-linhares-rbvpf)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/FRMT/FRMT.py)|
 |PTRA|[Problema](https://rosalind.info/problems/ptra/)|[Artigo](https://www.linkedin.com/pulse/bioinformata-100-10-tabelas-de-tradu%2525C3%2525A7%2525C3%2525A3o-guilherme-trevisan-linhares-u4zef)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/PTRA/PTRA.py)|
 |RVCO|[Problema](https://rosalind.info/problems/rvco/)|[Artigo](https://www.linkedin.com/pulse/bioinformata-100-11-reverso-complementar-trevisan-linhares-syssf)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/RVCO/RVCO.py)|
-|ORFR|[Problema](https://rosalind.info/problems/orfr/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/ORFR/ORFR.py)|
+|ORFR|[Problema](https://rosalind.info/problems/orfr/)|[Artigo](https://www.linkedin.com/pulse/bioinformata-100-12-detec%2525C3%2525A7%2525C3%2525A3o-da-maior-orf-trevisan-linhares-jcshf)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/ORFR/ORFR.py)|
 |TFSQ|[Problema](https://rosalind.info/problems/tfsq/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/TFSQ/TFSQ.py)|
 |PHRE|[Problema](https://rosalind.info/problems/phre/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/PHRE/PHRE.py)|
 |FILT|[Problema](https://rosalind.info/problems/filt/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/FILT/FILT.py)|
@@ -34,13 +34,11 @@
 |RNA|[Problema](https://rosalind.info/problems/rna/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/RNA/RNA.py)|
 |REVC|[Problema](https://rosalind.info/problems/revc/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/REVC/REVC.py)|
 |IPRB|[Problema](https://rosalind.info/problems/iprb/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/IPRB/IPRB.py)|
-|FIB|[Problema](https://rosalind.info/problems/fib/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/FIB/FIB.py)|
 |HAMM|[Problema](https://rosalind.info/problems/hamm/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/HAMM/HAMM.py)|
 |SUBS|[Problema](https://rosalind.info/problems/subs/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/SUBS/SUBS.py)|
 |PROT|[Problema](https://rosalind.info/problems/prot/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/PROT/PROT.py)|
 |GC|[Problema](https://rosalind.info/problems/gc/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/GC/GC.py)|
 |IEV|[Problema](https://rosalind.info/problems/iev/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/IEV/IEV.py)|
-|FIBD|[Problema](https://rosalind.info/problems/fibd/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/FIBD/FIBD.py)|
 |MRNA|[Problema](https://rosalind.info/problems/mrna/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/MRNA/MRNA.py)|
 |PRTM|[Problema](https://rosalind.info/problems/prtm/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/PRTM/PRTM.py)|
 |PERM|[Problema](https://rosalind.info/problems/perm/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/PERM/PERM.py)|
