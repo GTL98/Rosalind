@@ -23,7 +23,7 @@
 |ORFR|[Problema](https://rosalind.info/problems/orfr/)|[Artigo](https://www.linkedin.com/pulse/bioinformata-100-12-detec%2525C3%2525A7%2525C3%2525A3o-da-maior-orf-trevisan-linhares-jcshf)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/ORFR/ORFR.py)|
 |TFSQ|[Problema](https://rosalind.info/problems/tfsq/)|[Artigo](https://www.linkedin.com/pulse/bioinformata-100-13-introdu%C3%A7%C3%A3o-ao-fastq-guilherme-trevisan-linhares-mpz5f)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/TFSQ/TFSQ.py)|
 |PHRE|[Problema](https://rosalind.info/problems/phre/)|[Artigo](https://www.linkedin.com/pulse/bioinformata-100-14-distribui%C3%A7%C3%A3o-de-qualidade-fastq-guilherme-xhk2f/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/PHRE/PHRE.py)|
-|FILT|[Problema](https://rosalind.info/problems/filt/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/FILT/FILT.py)|
+|FILT|[Problema](https://rosalind.info/problems/filt/)|[Artigo](https://www.linkedin.com/pulse/bioinformata-100-15-filtrar-pela-qualidade-trevisan-linhares-hqjhf/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/FILT/FILT.py)|
 |BPHR|[Problema](https://rosalind.info/problems/bphr/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/BPHR/BPHR.py)|
 |BFIL|[Problema](https://rosalind.info/problems/bfil/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Armory/BFIL/BFIL.py)|
 
