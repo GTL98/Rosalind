@@ -30,7 +30,7 @@
 ### Bioinformatics Stronghold
 |Nome|Problema|Artigo|Código|
 |-|-|-|-|
-|DNA|[Problema](https://rosalind.info/problems/dna/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/DNA/DNA.py)|
+|DNA|[Problema](https://rosalind.info/problems/dna/)|[Artigo](https://www.linkedin.com/pulse/bioinformata-100-18-contagem-de-nucleot%25C3%25ADdeos-trevisan-linhares-jj5rf/)|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/DNA/DNA.py)|
 |RNA|[Problema](https://rosalind.info/problems/rna/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/RNA/RNA.py)|
 |REVC|[Problema](https://rosalind.info/problems/revc/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/REVC/REVC.py)|
 |IPRB|[Problema](https://rosalind.info/problems/iprb/)|[Artigo]()|[Código](https://github.com/GTL98/Rosalind/blob/main/Bioinformatics%20Stronghold/IPRB/IPRB.py)|
